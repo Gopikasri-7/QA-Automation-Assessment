@@ -1,0 +1,7 @@
+Execution Summary
+
+- Automated login functionality using Selenium WebDriver
+- Created test cases for login validation
+- Identified functional validation bugs
+- Performed API testing using Postman
+- Generated automation execution reports using ExtentReports
