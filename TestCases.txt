@@ -1,0 +1,5 @@
+TC01 - Valid Login - User should login successfully
+TC02 - Invalid Password - Error message should display
+TC03 - Empty Fields - Validation should appear
+TC04 - Logout Functionality - User session should end
+TC05 - Invalid Email Format - Proper validation required
