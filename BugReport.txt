@@ -1,0 +1,3 @@
+BUG01 - Login accepts empty spaces - Medium
+BUG02 - Error message unclear during invalid login - Low
+BUG03 - Weak password validation - High
