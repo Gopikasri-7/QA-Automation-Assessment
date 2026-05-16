@@ -1,0 +1,6 @@
+API Testing Performed Using Postman
+
+Tested Login API:
+- Verified valid login response
+- Verified invalid credential handling
+- Checked status codes and response validation
